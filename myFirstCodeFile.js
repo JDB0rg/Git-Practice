@@ -6,4 +6,4 @@ var bar = "car";
 
 journal.push(myDay);
 journal.push(dm11);
-journal.push(car);
+journal.push(bar);
